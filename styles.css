@@ -6,6 +6,7 @@
 	flex-wrap: wrap;
 }
 .item {
+	margin: 10px;
 	height: 200px;
 	width: 200px;
 	background-color: orange;
